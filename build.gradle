@@ -34,13 +34,7 @@ jar {
 sonar {
     properties {
         property 'sonar.projectKey', 'GroovyDemoProject'
-        property 'sonar.projectKey', 'GroovyDemoProject'
-        property 'sonar.host.url', 'http://localhost:9000'
-        property 'sonar.token', 'squ_285e2b2df1500f1e09d19e850341868b9116f0f3'
-        property 'sonar.verbose', 'true'
-        property "sonar.language", "grvy"
-        property "sonar.sources", "src/main/groovy"
-        property "sonar.scm.provider", "git"
+        property 'sonar.projectKey', 'SonarFox_GroovyDemoProject_f3e951e5-0741-468b-ab87-a0bac203d5fa'
     }
 }
 
